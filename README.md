@@ -36,7 +36,7 @@ To clearly and dynamically visualize customer behavior patterns, identify valuab
 #
 ![previa4](https://github.com/eliancba/Customer-Insights-Dashboard/blob/main/previas/PREVIA%204.png)
 #
-**[Link(.pbix)]**(https://github.com/eliancba/Customer-Insights-Dashboard/tree/main/pbix)
+**[Link(.pbix)](https://github.com/eliancba/Customer-Insights-Dashboard/tree/main/pbix)**
 
 #### TOOLS & TECHNOLOGIES
 
