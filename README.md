@@ -28,13 +28,13 @@ To clearly and dynamically visualize customer behavior patterns, identify valuab
 
 **Dashboard Preview**
 
-![previa1]()
+![previa1](https://github.com/eliancba/Customer-Insights-Dashboard/blob/main/previas/PREVIA%201.png)
 #
-![previa2]()
+![previa2](https://github.com/eliancba/Customer-Insights-Dashboard/blob/main/previas/PREVIA%202.png)
 #
-![previa3]()
+![previa3](https://github.com/eliancba/Customer-Insights-Dashboard/blob/main/previas/PREVIA%203.png)
 #
-![previa4]()
+![previa4](https://github.com/eliancba/Customer-Insights-Dashboard/blob/main/previas/PREVIA%204.png)
 
 #### TOOLS & TECHNOLOGIES
 
